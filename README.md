@@ -152,12 +152,15 @@ plt.xlabel("Data Points")
 plt.ylabel("Distance")
 
 plt.show()
-📊 Results & Insights
-Algorithm	Advantages	Limitations
-KMeans	Fast, simple, efficient	Requires predefined K
-Hierarchical Clustering	No need for initial K, interpretable	Slower for large datasets
-✅ Conclusion
-Both clustering techniques successfully grouped the Iris dataset.
-KMeans is efficient when the number of clusters is known.
-Hierarchical Clustering provides better interpretability through dendrograms.
-The Iris dataset is well-suited for clustering due to its clear structure.
+```
+## 📊 Results & Insights
+## Algorithm	Advantages	Limitations
+## KMeans	Fast, simple, efficient	Requires predefined K
+## Hierarchical Clustering	No need for initial K, interpretable	Slower for large datasets
+
+# ✅ Conclusion
+## Both clustering techniques successfully grouped the Iris dataset.
+## KMeans is efficient when the number of clusters is known.
+## Hierarchical Clustering provides better interpretability through dendrograms.
+## The Iris dataset is well-suited for clustering due to its clear structure.
+
